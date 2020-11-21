@@ -2,3 +2,4 @@ data/.ipynb_checkpoints
 data/images/*.jpg
 data/temp.ipynb
 .vscode
+word_embeddings/*
